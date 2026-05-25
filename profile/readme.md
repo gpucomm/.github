@@ -1,3 +1,3 @@
 # Welcome to my GitHub Profile!
 
-![Screenshot](screenshot-rounded.png)
+![Screenshot](https://raw.githubusercontent.com/gpucomm/.github/main/profile/screenshot-rounded.png)

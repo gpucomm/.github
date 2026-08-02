@@ -1,11 +1,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/gpucomm/.github/main/profile/banner.jpg" alt="gpucomm" width="100%">
 </div>
-
 <br>
 
-**gpucomm** is a collection of GPU-focused developer tooling and runtimes.
-
+**gpucomm** is a collection of GPU-focused developer tooling and runtimes.  
 It provides CI automation, an artifacts filesystem for large GPU binaries, and a Metal-based runtime for Apple Silicon GPUs — making GPU workloads easier to develop, test, and deploy.
 
 ### Areas of focus
